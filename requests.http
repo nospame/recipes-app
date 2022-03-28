@@ -1,1 +1,1 @@
-GET http://localhost:3000/recipes
+GET http://localhost:3000/recipes?q=ramen
